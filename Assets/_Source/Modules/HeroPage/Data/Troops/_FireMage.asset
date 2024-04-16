@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ecc3e4975bc45848abecbaf2129b3c5, type: 3}
+  m_Name: _FireMage
+  m_EditorClassIdentifier: 
+  <View>k__BackingField: {fileID: 11400000, guid: a7498e5c71d0dd74f9daa798e14f943a, type: 2}
+  <IsLocked>k__BackingField: 1
+  <Stats>k__BackingField: {fileID: 11400000, guid: 688a05e639db91749a143af8355a847b, type: 2}
+  <IsSingleCount>k__BackingField: 1
+  <IsMagicAttacker>k__BackingField: 1
+  <AttackType>k__BackingField: 1
+  <AttackDistance>k__BackingField: 2
+  <TargetSelection>k__BackingField: 1
+  <DamageShape>k__BackingField: 1
+  <HasSkill>k__BackingField: 0
+  <SkillView>k__BackingField: {fileID: 0}
+  _purchaseData: {fileID: 11400000, guid: 075ae020ec67ab64aacd33d0eb2ed1e6, type: 2}

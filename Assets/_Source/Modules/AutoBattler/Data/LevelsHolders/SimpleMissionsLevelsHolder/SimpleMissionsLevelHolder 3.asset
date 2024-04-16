@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4362bc5a54b9dcb4495221fbe2619895, type: 3}
+  m_Name: SimpleMissionsLevelHolder 3
+  m_EditorClassIdentifier: 
+  AllLevels:
+  - {fileID: 4900000, guid: 6847d62f5362a9043ab002d7e1a7b18d, type: 3}
+  - {fileID: 4900000, guid: 5a7327a6d87f35942b13c67783f5be5d, type: 3}
+  - {fileID: 4900000, guid: e6b48a86df89dbf4a91dcb3573832dfa, type: 3}
+  - {fileID: 4900000, guid: 9825d33793f5b2849af89fe418c7aafc, type: 3}
+  - {fileID: 4900000, guid: 72894f402c462a64d92463f44ce9f604, type: 3}
+  - {fileID: 4900000, guid: e2ff1a77a5cdc2541bd3cfe27451ddd9, type: 3}
+  - {fileID: 4900000, guid: 256b515117e73cb4f888decd975f7992, type: 3}
+  - {fileID: 4900000, guid: 012271ae842b4294db7af4f3559a35fb, type: 3}
+  - {fileID: 4900000, guid: 8c6bac0bf365b4c4c928b223ded43fd7, type: 3}
+  - {fileID: 4900000, guid: ff1f0bb81f3db2445bfe04b12e1f76b7, type: 3}

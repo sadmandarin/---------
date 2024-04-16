@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FireMage
+  m_Controller: {fileID: 9100000, guid: 57029adbea4ae1b4392114d36bc1ea31, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 75e8393c6bf25f74d8501a204a10d4d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 75e8393c6bf25f74d8501a204a10d4d3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cb69a92434c01d844b74eeef79bcc214, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb69a92434c01d844b74eeef79bcc214, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 02ab2c3e61ecb554dbf62592ea34112f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 02ab2c3e61ecb554dbf62592ea34112f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5f96bd311d88c6f43a535275521d2548, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5f96bd311d88c6f43a535275521d2548, type: 2}

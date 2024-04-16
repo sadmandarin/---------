@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41f354c06e6f1554082fc80898ccd96d, type: 3}
+  m_Name: OgreWarrior
+  m_EditorClassIdentifier: 
+  StatsLevels:
+  - Health: 2000
+    Defense: 45
+    Damage: 200
+    HitRadius: 0
+    AttackSpeed: 0.8
+    MovementSpeed: 1.2
+  - Health: 5000
+    Defense: 53
+    Damage: 220
+    HitRadius: 0
+    AttackSpeed: 0.8
+    MovementSpeed: 1.2
+  - Health: 7500
+    Defense: 60
+    Damage: 240
+    HitRadius: 0
+    AttackSpeed: 0.8
+    MovementSpeed: 1.2
+  - Health: 12000
+    Defense: 68
+    Damage: 260
+    HitRadius: 0
+    AttackSpeed: 0.8
+    MovementSpeed: 1.2
+  - Health: 16500
+    Defense: 75
+    Damage: 280
+    HitRadius: 0
+    AttackSpeed: 0.8
+    MovementSpeed: 1.2

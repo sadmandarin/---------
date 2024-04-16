@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acb4f10050ea81a41b177d2fa082afa8, type: 3}
+  m_Name: Mystic Store Item Collection Updater
+  m_EditorClassIdentifier: 
+  _config: {fileID: 11400000, guid: 6443a7754efad184d81b42f5f37c2985, type: 2}
+  _itemsCollections: {fileID: 11400000, guid: 7d43f8c44aaea6a4e84547bf7acbc2d9, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0e8cbae96ef0541a74f7fc695af61f, type: 3}
+  m_Name: HeroBoxExtraReward
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 21300000, guid: e50b3a5e7ab767a4e9330f00f03af930, type: 2}
+  <CommonDifference>k__BackingField: 0
+  <StartingNumber>k__BackingField: 1
+  _descriptionWithQuantity: {fileID: -3323841792918327288, guid: 70fd723e9a9103346919099d0891513e, type: 3}
+  _descriptionWithoutQuantity: {fileID: 6746014554929174341, guid: 835da2daeed03ae428fcfd89c2f8da5a, type: 3}
+  _basicDescription: {fileID: 6746014554929174341, guid: 835da2daeed03ae428fcfd89c2f8da5a, type: 3}
+  _chest: {fileID: 11400000, guid: 005573aef353f4244b9946e264d520d0, type: 2}

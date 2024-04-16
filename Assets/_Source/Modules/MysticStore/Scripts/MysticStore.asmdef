@@ -1,0 +1,19 @@
+{
+    "name": "MysticStore",
+    "rootNamespace": "MysticStore",
+    "references": [
+        "GUID:fbe7c13e574c266428c51e9950661e12",
+        "GUID:36d2acf745fbc084ca6b44e27654c127",
+        "GUID:218c8d088c76f5f45b9b3de347da2c05",
+        "GUID:31337b04c53c59d4db633b7fbceedada"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

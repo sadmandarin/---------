@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a9fa387cd70bc04ebab4b0f41384680, type: 3}
+  m_Name: Diana
+  m_EditorClassIdentifier: 
+  <HeroView>k__BackingField: {fileID: 11400000, guid: ca977084a3fa7f245aba07f7b8f24edb, type: 2}
+  <HeroPrefab>k__BackingField: {fileID: 1118331329930681, guid: 10f6d6f46123a9f4c8af4860a347bb1b, type: 3}

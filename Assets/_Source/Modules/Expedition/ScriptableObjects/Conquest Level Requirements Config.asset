@@ -1,0 +1,424 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8912850090845de44aca625c965deed6, type: 3}
+  m_Name: Conquest Level Requirements Config
+  m_EditorClassIdentifier: 
+  <Requirements>k__BackingField:
+  - Requirements:
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 2
+      - 1
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 2
+      - 2
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 3
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 220
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 180
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 300
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 300
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 480
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 5
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 180
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 350
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 180
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 480
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 5
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 5
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+    - RequirementValues:
+      - 270
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 3
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 360
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 3
+      - 3
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 2
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 220
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 300
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 5
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+    - RequirementValues:
+      - 180
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 180
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 150
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 2
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 300
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 4
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+    - RequirementValues:
+      - 240
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 6
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 220
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 600
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 3
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 200
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 480
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues:
+      - 5
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}
+    - RequirementValues:
+      - 2
+      Requirement: {fileID: 11400000, guid: 90a585df1c503a1409e0715fd5df5018, type: 2}
+  - Requirements:
+    - RequirementValues:
+      - 480
+      Requirement: {fileID: 11400000, guid: 341c1dc511f31e1458884d8d5419dee7, type: 2}
+    - RequirementValues: []
+      Requirement: {fileID: 11400000, guid: 280a868925b15d34292558739eb96810, type: 2}
+    - RequirementValues:
+      - 5
+      - 5
+      Requirement: {fileID: 11400000, guid: 2e816a9a582241c4d8b664236e325d9e, type: 2}

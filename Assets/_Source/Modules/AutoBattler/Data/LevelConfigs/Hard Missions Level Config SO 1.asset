@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae9959bb05e0e234f8a9a87bbf4686b6, type: 3}
+  m_Name: Hard Missions Level Config SO 1
+  m_EditorClassIdentifier: 
+  _levelVariable: {fileID: 11400000, guid: f7029db527c33b249ab176c5555c452b, type: 2}
+  _extraRewards: {fileID: 11400000, guid: c8c36760de2e60040a1b8619abfe32fe, type: 2}
+  _questsCompleter: {fileID: 11400000, guid: aa2708258fba8764f8bde0b014d32593, type: 2}
+  _quest: {fileID: 11400000, guid: 7d34ad5dc3a1bc24cb8410f21d273441, type: 2}
+  _canSpawnTroops: 1
+  _isMission: 1
+  _terrains:
+  - {fileID: 3158282747622653689, guid: e339e402c33c7dc4ca7dc23e77f3473d, type: 3}
+  - {fileID: 3158282747622653689, guid: 2932dec790e8a3549815459c715562c5, type: 3}
+  - {fileID: 3158282747622653689, guid: 78140a94afa2e1543b0d934719695873, type: 3}
+  - {fileID: 3158282747622653689, guid: 8e7ca0f037e9a3d41b7bc500a9f5bd1a, type: 3}
+  - {fileID: 3158282747622653689, guid: be2680b6fddb231448fcdd26378a202d, type: 3}
+  - {fileID: 3158282747622653689, guid: 6114e881f87ce854288c215fb6471a45, type: 3}
+  - {fileID: 3158282747622653689, guid: bc1b590e6ea06264da5ad9b65916962b, type: 3}
+  - {fileID: 3158282747622653689, guid: 6114e881f87ce854288c215fb6471a45, type: 3}
+  - {fileID: 3158282747622653689, guid: c4e831338a51bfd418e3bac26efdaad5, type: 3}
+  - {fileID: 3158282747622653689, guid: 6114e881f87ce854288c215fb6471a45, type: 3}
+  _levelHolderConfig: {fileID: 11400000, guid: 1f25f33841038fb47af5cf1ad11719b5, type: 2}
+  _mainLevelVariable: {fileID: 11400000, guid: 921e01d6b0d406b4b8a16919cbf7cbbe, type: 2}
+  _timesRemaining: {fileID: 11400000, guid: bfa22fb487885c843ae9cb036044f325, type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eec1692c338bca46b1b7adaddf1c684, type: 3}
+  m_Name: AlchemistPassive
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 1688785276, guid: 296e5c30ac6ecf040911bb8bf471f49e, type: 3}
+  <IsPassive>k__BackingField: 1
+  <SkillDescriptions>k__BackingField:
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: a2941ff4303e92a4284b88ba43cdddf1, type: 3}
+    Values:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    ValueSuffix: '%'
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: d866e3777a166db4cbb1cbdf1e961712, type: 3}
+    Values:
+    - 1
+    - 1
+    - 1
+    - 3
+    - 3
+    ValueSuffix: 
+  _title: {fileID: 6746014554929174341, guid: 0be8986c1219f1b45a77163554a78d25, type: 3}
+  _description: {fileID: 6746014554929174341, guid: c3c69a83ff45db848a2ca185cd9ecbf8, type: 3}

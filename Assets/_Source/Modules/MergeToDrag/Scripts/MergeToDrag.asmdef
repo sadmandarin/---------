@@ -1,0 +1,17 @@
+{
+    "name": "MergeToDrag",
+    "rootNamespace": "MergeToDrag",
+    "references": [
+        "GUID:84327cdc1e8773a4d80df0920b675246",
+        "GUID:76385025f798c52419528a0c400aa8e4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

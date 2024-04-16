@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ac269df70b34ee4a8f3111f39acc2d7, type: 3}
+  m_Name: _TreeOfLife
+  m_EditorClassIdentifier: 
+  <HeroPresentation>k__BackingField: {fileID: 11400000, guid: 9e99c880c6434084590736df3fee2551, type: 2}
+  <IsUnlocked>k__BackingField: 1
+  <IsMagicAttacker>k__BackingField: 0
+  <Stats>k__BackingField: {fileID: 11400000, guid: 6e6b830144ad2e54ca033730802692ef, type: 2}
+  <Skills>k__BackingField:
+  - {fileID: 11400000, guid: bedec152af61eef4aba4674090b55778, type: 2}
+  - {fileID: 11400000, guid: 923f6d3906602e248826e21a50570128, type: 2}
+  <Race>k__BackingField: {fileID: 11400000, guid: 27b3dc93a456dc848bded521e597cb3e, type: 2}
+  <Role>k__BackingField: {fileID: 11400000, guid: d9275e82d78033444a986307a5913422, type: 2}

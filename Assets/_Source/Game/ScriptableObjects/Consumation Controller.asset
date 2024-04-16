@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81a9253fca0e493439aa994ce7597095, type: 3}
+  m_Name: Consumation Controller
+  m_EditorClassIdentifier: 
+  _products:
+  - {fileID: 11400000, guid: 906c4be215439ba4cab40a0d54ac86cb, type: 2}
+  - {fileID: 11400000, guid: 874f88f035e7e314e92f5acfe40a5cdd, type: 2}
+  - {fileID: 11400000, guid: 1b4ed6911fd47154d93f2995c0654e7b, type: 2}
+  - {fileID: 11400000, guid: 04a059e86da11ad408b9915b2b548dc1, type: 2}
+  - {fileID: 11400000, guid: e51063ff893554e4784522b7d41ad3b1, type: 2}
+  - {fileID: 11400000, guid: 98bef1f94d462254db44e48d5e3622bd, type: 2}
+  - {fileID: 11400000, guid: 8edd9f4123e1f2148bebe8221fdd64c8, type: 2}
+  - {fileID: 11400000, guid: 73a92c56fcd83494a864459d08cda02a, type: 2}
+  - {fileID: 11400000, guid: 1f19d7a60d1556a4c96a46cacedf2fad, type: 2}
+  - {fileID: 11400000, guid: c9b9c808a15dd984ba1d55330e4c00e8, type: 2}
+  - {fileID: 11400000, guid: 5ab983c9d40914841ae1dfc2307e1a09, type: 2}
+  - {fileID: 11400000, guid: da7523d8d15111e4aa97f18131dbcc09, type: 2}
+  - {fileID: 11400000, guid: 537621e2c47ee9a4aa6f5e2b541ceee4, type: 2}
+  - {fileID: 11400000, guid: 68bca9bbf3799244c9a7c28c09cc4204, type: 2}
+  - {fileID: 11400000, guid: c44524155513e324f9d2f4629fc530a3, type: 2}
+  - {fileID: 11400000, guid: 13761ce1d6cc8074f81260b140d0eb69, type: 2}
+  - {fileID: 11400000, guid: 3fbd17b75224b394aa7efa4646ce0fe1, type: 2}
+  - {fileID: 11400000, guid: 6c9b9e4599b72b2459389d338399b441, type: 2}
+  - {fileID: 11400000, guid: 67cb07a104c8862499c9aba56f6f6fc7, type: 2}
+  - {fileID: 11400000, guid: 459e276eb95b8e546b777b1247a1561d, type: 2}
+  - {fileID: 11400000, guid: 1ac74107ee305b446a1bd6ee16f9e867, type: 2}
+  - {fileID: 11400000, guid: cb78eb53dcefda5459c42072191f080a, type: 2}

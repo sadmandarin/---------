@@ -1,0 +1,4 @@
+repository "LegionGame@anton4265@cloud"
+  path "/"
+    br "/main"
+    co "/main"

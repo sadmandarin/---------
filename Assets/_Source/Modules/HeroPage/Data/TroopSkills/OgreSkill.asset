@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6133b2f816447b4a87b03d7c0f886ef, type: 3}
+  m_Name: OgreSkill
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - _view: {fileID: 11400000, guid: fee2eed3fb553874f97cfb5bc8462055, type: 2}
+    Values:
+    - 150
+    - 175
+    - 200
+    - 225
+    - 250
+  - _view: {fileID: 11400000, guid: 258ae46c98062a641b6972a4b2d4630b, type: 2}
+    Values:
+    - 4
+  - _view: {fileID: 11400000, guid: c5af15bad04376d4785dcfa2427997b0, type: 2}
+    Values:
+    - 2
+  - _view: {fileID: 11400000, guid: 298fdf8b12922ce4693676e0adfdc8cd, type: 2}
+    Values:
+    - 5
+  <Icon>k__BackingField: {fileID: 21300000, guid: 1b20f742dffd5d04587ceb4cf2d6378a, type: 2}
+  _title: {fileID: 6746014554929174341, guid: 6f49aa14de51ee147be9585e12f9c63c, type: 3}
+  _description: {fileID: 6746014554929174341, guid: 81d18335094419f499001f9d9ad78322, type: 3}

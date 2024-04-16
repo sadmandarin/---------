@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ac269df70b34ee4a8f3111f39acc2d7, type: 3}
+  m_Name: _ElementalEnvoy
+  m_EditorClassIdentifier: 
+  <HeroPresentation>k__BackingField: {fileID: 11400000, guid: cf3018c607fb5a040af901b6f99dbe76, type: 2}
+  <IsUnlocked>k__BackingField: 0
+  <IsMagicAttacker>k__BackingField: 1
+  <Stats>k__BackingField: {fileID: 11400000, guid: 1904179469a205a44bbb7f1dedf5ce83, type: 2}
+  <Skills>k__BackingField:
+  - {fileID: 11400000, guid: 3f35e53059001ba41b562d9292c5f7ce, type: 2}
+  - {fileID: 11400000, guid: 57f0210af98905d45b4f8f39158d7647, type: 2}
+  <Race>k__BackingField: {fileID: 11400000, guid: 77dd9f8134cedfe4f8945cc12dc94b5b, type: 2}
+  <Role>k__BackingField: {fileID: 11400000, guid: 7894fe2641990004980411d19c22164a, type: 2}

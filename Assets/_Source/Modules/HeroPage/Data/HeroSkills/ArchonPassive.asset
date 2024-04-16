@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eec1692c338bca46b1b7adaddf1c684, type: 3}
+  m_Name: ArchonPassive
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 955031451, guid: 296e5c30ac6ecf040911bb8bf471f49e, type: 3}
+  <IsPassive>k__BackingField: 1
+  <SkillDescriptions>k__BackingField:
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: 5f9df4c85cddc794f90ae4583896a111, type: 3}
+    Values:
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    ValueSuffix: '%'
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: 6e5ee758d44bb7f4eae88cab30447ec4, type: 3}
+    Values:
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    ValueSuffix: '%'
+  _title: {fileID: 6746014554929174341, guid: bc6c03e874ffa46428a83bfe2514ed63, type: 3}
+  _description: {fileID: 6746014554929174341, guid: 34edb1c8941c0d647be3c63641f7d1e4, type: 3}

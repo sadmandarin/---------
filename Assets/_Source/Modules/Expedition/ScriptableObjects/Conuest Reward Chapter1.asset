@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a35379f8f4160124b88f37f9f8560a70, type: 3}
+  m_Name: Conuest Reward Chapter1
+  m_EditorClassIdentifier: 
+  ConquestRewards:
+  - StarsToGet: 3
+    NormalReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    NormalQuantity: 1000
+    VipReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    VipQuantity: 5000
+  - StarsToGet: 5
+    NormalReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    NormalQuantity: 20
+    VipReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    VipQuantity: 100
+  - StarsToGet: 10
+    NormalReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    NormalQuantity: 1
+    VipReward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    VipQuantity: 1
+  - StarsToGet: 15
+    NormalReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    NormalQuantity: 2000
+    VipReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    VipQuantity: 10000
+  - StarsToGet: 20
+    NormalReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    NormalQuantity: 40
+    VipReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    VipQuantity: 200
+  - StarsToGet: 25
+    NormalReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    NormalQuantity: 1
+    VipReward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    VipQuantity: 1
+  - StarsToGet: 30
+    NormalReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    NormalQuantity: 3000
+    VipReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    VipQuantity: 15000
+  - StarsToGet: 35
+    NormalReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    NormalQuantity: 50
+    VipReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    VipQuantity: 250
+  - StarsToGet: 40
+    NormalReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    NormalQuantity: 2
+    VipReward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    VipQuantity: 2
+  - StarsToGet: 45
+    NormalReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    NormalQuantity: 5000
+    VipReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    VipQuantity: 25000
+  - StarsToGet: 50
+    NormalReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    NormalQuantity: 100
+    VipReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    VipQuantity: 500
+  - StarsToGet: 55
+    NormalReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    NormalQuantity: 7000
+    VipReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    VipQuantity: 35000
+  - StarsToGet: 60
+    NormalReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    NormalQuantity: 2
+    VipReward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    VipQuantity: 2

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be3adcde353d4534ab5884dc668d7def, type: 3}
+  m_Name: Experience Config SO
+  m_EditorClassIdentifier: 
+  <ExperienceLevelList>k__BackingField:
+  - ExperienceToNextLevel: 0
+    Reward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    QuantityOfReward: 2000
+  - ExperienceToNextLevel: 50
+    Reward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    QuantityOfReward: 50
+  - ExperienceToNextLevel: 150
+    Reward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    QuantityOfReward: 1
+  - ExperienceToNextLevel: 350
+    Reward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    QuantityOfReward: 3000
+  - ExperienceToNextLevel: 750
+    Reward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    QuantityOfReward: 1
+  - ExperienceToNextLevel: 1550
+    Reward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    QuantityOfReward: 100
+  - ExperienceToNextLevel: 2550
+    Reward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    QuantityOfReward: 10000
+  - ExperienceToNextLevel: 3750
+    Reward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    QuantityOfReward: 2
+  - ExperienceToNextLevel: 5150
+    Reward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    QuantityOfReward: 30000
+  - ExperienceToNextLevel: 6750
+    Reward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    QuantityOfReward: 2
+  - ExperienceToNextLevel: 8550
+    Reward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    QuantityOfReward: 60000
+  - ExperienceToNextLevel: 10550
+    Reward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    QuantityOfReward: 2
+  - ExperienceToNextLevel: 12750
+    Reward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    QuantityOfReward: 100000
+  - ExperienceToNextLevel: 15150
+    Reward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    QuantityOfReward: 200
+  - ExperienceToNextLevel: 17750
+    Reward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    QuantityOfReward: 2
+  - ExperienceToNextLevel: 20550
+    Reward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+    QuantityOfReward: 120000
+  - ExperienceToNextLevel: 23550
+    Reward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    QuantityOfReward: 300
+  - ExperienceToNextLevel: 26750
+    Reward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    QuantityOfReward: 2
+  - ExperienceToNextLevel: 30150
+    Reward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    QuantityOfReward: 400
+  - ExperienceToNextLevel: 33750
+    Reward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    QuantityOfReward: 2
+  - ExperienceToNextLevel: 37550
+    Reward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    QuantityOfReward: 500
+  - ExperienceToNextLevel: 41150
+    Reward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+    QuantityOfReward: 3
+  - ExperienceToNextLevel: 45950
+    Reward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    QuantityOfReward: 3
+  - ExperienceToNextLevel: 50750
+    Reward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+    QuantityOfReward: 500
+  - ExperienceToNextLevel: 55950
+    Reward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+    QuantityOfReward: 4
+  <UnitExperiences>k__BackingField:
+  - Rarity: 0
+    Experience: 0200000004000000080000001000000020000000
+  - Rarity: 1
+    Experience: 03000000060000000c0000001800000030000000
+  - Rarity: 2
+    Experience: 0400000008000000100000002000000040000000
+  - Rarity: 3
+    Experience: 060000000c000000180000003000000060000000
+  <HeroExperiences>k__BackingField:
+  - Rarity: 1
+    Experience: 1e0000003c0000005a0000007800000096000000
+  - Rarity: 2
+    Experience: 280000005000000078000000a0000000c8000000
+  - Rarity: 3
+    Experience: 3c00000078000000b4000000f00000002c010000

@@ -1,0 +1,1395 @@
+fileFormatVersion: 2
+guid: 0d60537a209367242863dc92e4753c76
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 121
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd9a823f6f5ffb488b1cad57a697e3d
+      internalID: 466805535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 782
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84edc27f16705154d8c73a9af54a25a8
+      internalID: 356076423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 868
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d39beb5f653e64090fd8866440459e
+      internalID: 1245894547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 835
+        width: 110
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3aa2d6f52e604cb2eaf1547ad9808
+      internalID: -148015314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 838
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beadcbbb036d23248b90736821ef5f13
+      internalID: 267888765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 784
+        width: 120
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15df30c20b69b4e947f9685f450462
+      internalID: -1082270595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 853
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d02704e10004b419369454e1a046aa
+      internalID: -670695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 758
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905131427fb89534c8d75423da00334f
+      internalID: -208519885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 762
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d3805d9af4b944aae65dc114f22be
+      internalID: -2028619761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 729
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b8e45f1d66f6a40a8a0fd0848c0986
+      internalID: 1484391986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 608
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c7f4d01cf0d2f40910778b925dff7c
+      internalID: -1053369427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_11
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 749
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a84a67123ec274493362b78750a373
+      internalID: -760034527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 737
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321f5e69296656242ba80e6e2c572343
+      internalID: -743831355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd326e309dfb6c24982724c550b358cc
+      internalID: -1249442082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 663
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168b6a1c1390b5b449716140fa3831ec
+      internalID: 2108366711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 641
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c54a36c3d8e04289f17dcdbf2fea3
+      internalID: -361763254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 650
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc205a1abfd20a5489dc7b890c09a7f0
+      internalID: -2044942900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 620
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4a6e9e18210f4e945bc8bd6f47ca9
+      internalID: 885837929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_20
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 618
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8cbda6031b5b141b96ed518468f76e
+      internalID: 959350964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_21
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 627
+        width: 90
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f6716cb95ae3645b580058a4de09c6
+      internalID: 283777227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 532
+        width: 121
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2db5b2041f058441a3cb7c20be5581a
+      internalID: -1194996856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 522
+        width: 123
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7ab00a2eb9414192973e6980befc4
+      internalID: 2117321955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 520
+        width: 109
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e61701354462f4b8f73eb5b3b82513
+      internalID: -966019942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 516
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2387d8ffde3b45a48b533b4689cf0
+      internalID: 1010182341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_26
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 511
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951a8c62ada47504a9c19c0bf2f4b95b
+      internalID: 1983612954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_27
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 512
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37a988e796416240a3fa21fe117286c
+      internalID: 597943382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_28
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 385
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d93d59be1b32eb4db0c2cca48bc0228
+      internalID: 455629505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d95c5debdacd4d80ab23435ec42cd
+      internalID: -1810283297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 403
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231e384cbaa5f4d49a63fefa8a81724f
+      internalID: -756140772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e582ce1e89bdd48972292cf60cba9f
+      internalID: 305303033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 388
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9856929b482d41a4b8e6a02cdd205d6e
+      internalID: -1978410141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02917eb6e15f67647b1e22518cdf9b06
+      internalID: -988304491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 263
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5d20727fe9b848a5365b17a1622c4
+      internalID: 1742481129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_35
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb9a683fe911a741ae85c2645051f7b
+      internalID: 1693345933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02abc1503ae205b4f86225f4aafe9559
+      internalID: -2025708894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_37
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 134
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70e99179ed8e845bfede44758c7805
+      internalID: -907590709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 5
+        width: 125
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44bb204870c8ec43b76d56aa9c6fe12
+      internalID: -438592297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630787d62fde9b46b82a56dc47bd400
+      internalID: 1202447851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348e27f225086448a29a71c9e0d4f8e
+      internalID: 1299436374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b3f2c9d2518c45902be0b8fff6332
+      internalID: 428820311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 134
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab6482da5365f64c95fcc000787c958
+      internalID: 2054590861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_39
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433621df3808a114bac4bee870d60817
+      internalID: 564288663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_43
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c040adf67faa4449cd6b676064d3fb
+      internalID: 1700645677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_44
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 119
+        width: 140
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16749cf7b854d2249a9fe25660b94c49
+      internalID: 832281821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_45
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 254
+        width: 144
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb51b94119fc98d449e6d5770ff0a78a
+      internalID: -2094395613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_46
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 123
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed92c58bc09d43141ab753e545996ae0
+      internalID: -900514861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 117
+        width: 125
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caebb5857532a9a40b8284693a4de120
+      internalID: -597394320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_48
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 262
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621bfe2ee6559c142a3e93700323e528
+      internalID: -1757886070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 265
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e79b134afa9584c8ce499174497d1f
+      internalID: 431065678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_50
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 385
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8fa95269ff67408a05fb21673092b
+      internalID: -207546118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_51
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 749
+        width: 123
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11179a0066642c1489344ee2fa0e80ef
+      internalID: -1565899372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_52
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 512
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f5a0f4d01ef144ca9ea9dad90dbefa
+      internalID: 448763492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 404
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b275b837145e52b49b162b28e7d2d1c6
+      internalID: 1515227677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8768c7891c6d4a860c4c2192d9d1d
+      internalID: -657345441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_55
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 266
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619735eff852a94d885fd86e5519976
+      internalID: 458798884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 269
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27769f4d314aa204f981f98958a9fd0c
+      internalID: 41545175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 401
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70431f655d9ec884a832eebbdc41659e
+      internalID: -1015496511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 961af62435c98804c94595987e658ac4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_0: 466805535
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_1: 356076423
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_10: -1053369427
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_11: -760034527
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_12: 153662871
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_13: -743831355
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_14: -1249442082
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_15: 2108366711
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_16: 428820311
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_17: -361763254
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_18: -2044942900
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_19: 885837929
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_2: 1245894547
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_20: 959350964
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_21: 283777227
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_22: -1194996856
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_23: 2117321955
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_24: -966019942
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_25: 1010182341
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_26: 1983612954
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_27: 597943382
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_28: 455629505
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_29: -1810283297
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_3: -148015314
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_30: -756140772
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_31: 305303033
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_32: -1978410141
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_33: -988304491
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_34: 1742481129
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_35: 1693345933
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_36: -2025708894
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_37: -907590709
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_38: -438592297
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_39: 564288663
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_4: 267888765
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_40: 1202447851
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_41: 1299436374
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_42: 2054590861
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_43: 1700645677
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_44: 832281821
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_45: -2094395613
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_46: -900514861
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_47: -597394320
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_48: -1757886070
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_49: 431065678
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_5: -1082270595
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_50: -207546118
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_51: -1565899372
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_52: 448763492
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_53: 1515227677
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_54: -657345441
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_55: 458798884
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_56: 41545175
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_57: -1015496511
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_6: -670695
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_7: -208519885
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_8: -2028619761
+      sactx-0-1024x1024-Crunch-SkillIcon-6e8a9576_9: 1484391986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

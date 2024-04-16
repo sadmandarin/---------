@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0e8cbae96ef0541a74f7fc695af61f, type: 3}
+  m_Name: TroopBoxExtraReward
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 21300000, guid: d83d58d7845ca8840b87d64baa3e7e78, type: 2}
+  <CommonDifference>k__BackingField: 0
+  <StartingNumber>k__BackingField: 1
+  _descriptionWithQuantity: {fileID: -3323841792918327288, guid: 98e469a3ef04b6a44a18a75fa96307cf, type: 3}
+  _descriptionWithoutQuantity: {fileID: 6746014554929174341, guid: cc599c8787a27804cabe45cde19eda1b, type: 3}
+  _basicDescription: {fileID: 6746014554929174341, guid: cc599c8787a27804cabe45cde19eda1b, type: 3}
+  _chest: {fileID: 11400000, guid: 93d44db12ae5bc74f8b5bd2d3e48ef9c, type: 2}

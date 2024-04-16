@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FrostEarl
+  m_Controller: {fileID: 9100000, guid: 16101f472ccbb0441b410c30063ceb61, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d14cb41b61e910147bc045b34c546f6c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 08f66e00d599efa479b87896898671bd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 53d0b7a450a1b8147a0c45fb27bf56eb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0b1dd20591e2a054eb4b59c8fa1bb2c7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 817e2713d9a78be4d9d94c41b061a5d6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 86b7844eb655bbc44abb8ce4ff21eea4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1dcbfafe5e3cdf846a4d525846ee9da8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e0bacab85ff0b1543ba62e37394d1e73, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4ae1d192852f4704a8c823b65f438203, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 017b7b11ccca50449b3b73b6a19b390b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 987098c99ce919e49af816657cf2e505, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a1f9d8a58377c7a4d845a05e42afb2dd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6ba5001c32e8e5a42a17f2a06bfb2a15, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 10f78a55ba00351419c582b2cffbc432, type: 2}

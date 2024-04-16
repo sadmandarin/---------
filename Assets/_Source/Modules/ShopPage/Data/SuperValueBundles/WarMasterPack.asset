@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dd2c82a68023e44e92d0857027dead4, type: 3}
+  m_Name: WarMasterPack
+  m_EditorClassIdentifier: 
+  <YandexId>k__BackingField: WarMasterPack
+  <Gems>k__BackingField: 500
+  <Coins>k__BackingField: 300000
+  <TroopsToAdd>k__BackingField: 16
+  <Price>k__BackingField: 36
+  _config: {fileID: 11400000, guid: bcf59f883d16e284fb7c3211feed8a5d, type: 2}

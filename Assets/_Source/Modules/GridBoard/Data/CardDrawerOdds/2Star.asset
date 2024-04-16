@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b2f58fb5f0c7404db0ec5d49bf09d23, type: 3}
+  m_Name: 2Star
+  m_EditorClassIdentifier: GridBoard:GridBoard:CardDrawerOdds
+  <RareOdds>k__BackingField: 0.6
+  <CommonOdds>k__BackingField: 0.4
+  <CardBackIcon>k__BackingField: {fileID: 21300000, guid: 2abff94babe7d63488ff0f95e74ef468, type: 2}
+  <LevelOfUnit>k__BackingField: 2
+  <Price>k__BackingField: 30000

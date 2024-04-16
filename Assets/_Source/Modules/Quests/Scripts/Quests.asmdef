@@ -1,0 +1,18 @@
+{
+    "name": "Quests",
+    "rootNamespace": "Quests",
+    "references": [
+        "GUID:218c8d088c76f5f45b9b3de347da2c05",
+        "GUID:4a8fff017e14f8b40a6eca4c053548e7",
+        "GUID:fbe7c13e574c266428c51e9950661e12"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

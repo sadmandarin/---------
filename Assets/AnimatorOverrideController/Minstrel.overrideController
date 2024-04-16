@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Minstrel
+  m_Controller: {fileID: 9100000, guid: fef6bb1b4d581fd439ee5b370efa68ef, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 185f3f90f423ba24290a628209ca2324, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8905965178c0e9c408bf4e7a59b686e7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4165b9ee19c4c1247a37296417142a88, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3c5ff6ecd6aa24d419e460ccd8daec61, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 252fef80eca3a2843aac494a599d4236, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a767493ddb9b34e498b8123510ff9463, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 40c4506f5e21355448306aa7b7e6c774, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 22ba321dcc7ccfd46b30882cb9967a59, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7fab837acc550a4439507cb0fd763bf1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d84a1172eecc00548a3dfc7836f699cb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3fbcf305f7f4e9a41b43abf7ea6c0f9c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 884ac4603264ac948ab58626731dafa2, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d7a598db1c742409badc6f86ed25b3, type: 3}
+  m_Name: HeroChest
+  m_EditorClassIdentifier: 
+  <QuantityOfChests>k__BackingField: 3
+  <PredefinedCooldownsInSeconds>k__BackingField: 00000000100e0000201c0000302a00004038000080700000
+  <NumberOfChestsOpened>k__BackingField: 2
+  <ChestIcon>k__BackingField: {fileID: 21300000, guid: e50b3a5e7ab767a4e9330f00f03af930, type: 2}
+  <UsesGemsForOpening>k__BackingField: 1
+  <AmountOfCurrencyPerInterval>k__BackingField: 100
+  <IntervalTimeInSeconds>k__BackingField: 3600
+  <SavedTime>k__BackingField: {fileID: 11400000, guid: c33c3ca9e157aec4a896e15da867cfa5, type: 2}
+  <ChestSaveName>k__BackingField: HeroChest
+  <ChestDialogPrefab>k__BackingField: {fileID: 1578824358675148, guid: e8f171acfda32504b88e9e21a7a30320, type: 3}
+  _chestTitle: {fileID: 6746014554929174341, guid: 835da2daeed03ae428fcfd89c2f8da5a, type: 3}

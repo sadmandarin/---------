@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ecc3e4975bc45848abecbaf2129b3c5, type: 3}
+  m_Name: _Catapult
+  m_EditorClassIdentifier: 
+  <View>k__BackingField: {fileID: 11400000, guid: b721a19666771ef4f81965adaa822afe, type: 2}
+  <IsLocked>k__BackingField: 1
+  <Stats>k__BackingField: {fileID: 11400000, guid: e607fd379be1bbc4f97df093d480e46b, type: 2}
+  <IsSingleCount>k__BackingField: 1
+  <IsMagicAttacker>k__BackingField: 0
+  <AttackType>k__BackingField: 1
+  <AttackDistance>k__BackingField: 2
+  <TargetSelection>k__BackingField: 1
+  <DamageShape>k__BackingField: 1
+  <HasSkill>k__BackingField: 1
+  <SkillView>k__BackingField: {fileID: 11400000, guid: 942d532b37a6f2f438800ed370d1be1a, type: 2}
+  _purchaseData: {fileID: 11400000, guid: f7497f09650c85044b7902243bd7256c, type: 2}

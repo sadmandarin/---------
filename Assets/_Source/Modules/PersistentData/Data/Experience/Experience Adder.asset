@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9e4557c2bc6374e9d5d7d220e2f48f, type: 3}
+  m_Name: Experience Adder
+  m_EditorClassIdentifier: 
+  _experience: {fileID: 11400000, guid: 6da2282f654fe1440ba0a24388669d0d, type: 2}
+  _config: {fileID: 11400000, guid: 7d32889e1631c73468fcc92815b558bd, type: 2}
+  _unitsCollection: {fileID: 11400000, guid: cc161f7e809ce6c4b80a7275086c386c, type: 2}
+  _onExperienceAdded: {fileID: 11400000, guid: 276326fba43ec814eae619c9ce074e5b, type: 2}

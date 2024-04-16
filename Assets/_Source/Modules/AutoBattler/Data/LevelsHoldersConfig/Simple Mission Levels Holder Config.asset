@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0acee0ed607d4c34d8123cea45ad4cf7, type: 3}
+  m_Name: Simple Mission Levels Holder Config
+  m_EditorClassIdentifier: 
+  LevelsData:
+  - LevelHolder: {fileID: 11400000, guid: 605f3496555e6f6428b0a248b131c86e, type: 2}
+    LevelRequirement: 0
+  - LevelHolder: {fileID: 11400000, guid: 1cd6d338bb1aef842a17f8cc9b2d7892, type: 2}
+    LevelRequirement: 70
+  - LevelHolder: {fileID: 11400000, guid: cea0f277e770fd549b7f9daded01b8e0, type: 2}
+    LevelRequirement: 140
+  - LevelHolder: {fileID: 11400000, guid: 904c7975765d94047994fcfdc1210082, type: 2}
+    LevelRequirement: 210

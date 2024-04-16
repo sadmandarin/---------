@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 234d93eb6c90ac9409098df96401169b, type: 3}
+  m_Name: Hero Prefabs List
+  m_EditorClassIdentifier: 
+  _prefabs:
+  - {fileID: 11400000, guid: 5d6a0c6dd3992e44baf640bb253f035b, type: 2}
+  - {fileID: 11400000, guid: 844783bbd8e24bb4287630541af76acd, type: 2}
+  - {fileID: 11400000, guid: 4d4b921fd9060e646ac6b832b2a2e5f5, type: 2}
+  - {fileID: 11400000, guid: fb54b21bdbeef6e48a3894e49d08f801, type: 2}
+  - {fileID: 11400000, guid: c53ab7d529f13994db2fb9eae4fbcb73, type: 2}
+  - {fileID: 11400000, guid: a9e01f0a61b09004696cb2dd3cea39c3, type: 2}
+  - {fileID: 11400000, guid: 5d4259e4842616f4f9662b6499c000f1, type: 2}
+  - {fileID: 11400000, guid: 129bf955fdeb91d41ac81b1f615983fd, type: 2}
+  - {fileID: 11400000, guid: 01a78b3671567594e87ebd9d7f55bb39, type: 2}

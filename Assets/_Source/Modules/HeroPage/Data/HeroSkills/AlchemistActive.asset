@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eec1692c338bca46b1b7adaddf1c684, type: 3}
+  m_Name: AlchemistActive
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 965128566, guid: 296e5c30ac6ecf040911bb8bf471f49e, type: 3}
+  <IsPassive>k__BackingField: 0
+  <DamageType>k__BackingField: 1
+  <SkillDescriptions>k__BackingField:
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: 1ebba982c7e05694794aebb064e442a7, type: 3}
+    Values:
+    - 12
+    - 14
+    - 16
+    - 18
+    - 20
+    ValueSuffix: '%'
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: 917506a602876534f8f6687190df57a2, type: 3}
+    Values:
+    - 100
+    - 150
+    - 200
+    - 250
+    - 300
+    ValueSuffix: 
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: 2390ecb531216a84aaa66b686106444a, type: 3}
+    Values:
+    - 6
+    ValueSuffix: 
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: 9530cde2cac18b64385646fd739bbd6c, type: 3}
+    Values:
+    - 1
+    ValueSuffix: s
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: bf4885abd2dbac2408ded3c2f4b657d4, type: 3}
+    Values:
+    - 15
+    ValueSuffix: 
+  _title: {fileID: 6746014554929174341, guid: b17a726958c446b47945720c003ba7a2, type: 3}
+  _description: {fileID: 6746014554929174341, guid: bc9c5e001db69864187f8b514f925371, type: 3}

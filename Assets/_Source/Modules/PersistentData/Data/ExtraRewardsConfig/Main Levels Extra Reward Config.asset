@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e1e5ef6753b674a8f1ce2984f76f18, type: 3}
+  m_Name: Main Levels Extra Reward Config
+  m_EditorClassIdentifier: 
+  _coinsReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+  _gemsReward: {fileID: 11400000, guid: 82c0d6eca91b0de4094507a7a7a15c9d, type: 2}
+  _troopChestReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+  _heroChestReward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+  _rewardsList:
+  - Level: 6
+    ExtraReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+  - Level: 10
+    ExtraReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+  - Level: 16
+    ExtraReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+  - Level: 20
+    ExtraReward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+  - Level: 26
+    ExtraReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+  - Level: 30
+    ExtraReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+  - Level: 36
+    ExtraReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+  - Level: 40
+    ExtraReward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}
+  - Level: 45
+    ExtraReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+  - Level: 50
+    ExtraReward: {fileID: 11400000, guid: ac07540471a95614ea0056420cab8061, type: 2}
+  - Level: 55
+    ExtraReward: {fileID: 11400000, guid: 2825059f906bbd04e9150a503590dee0, type: 2}
+  - Level: 60
+    ExtraReward: {fileID: 11400000, guid: 8b63892abf7586d41b7888e61575aa45, type: 2}

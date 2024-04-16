@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ac269df70b34ee4a8f3111f39acc2d7, type: 3}
+  m_Name: _Alchemist
+  m_EditorClassIdentifier: 
+  <HeroPresentation>k__BackingField: {fileID: 11400000, guid: 8eeafdfcb5477c74d9aa55f87ee96dfe, type: 2}
+  <IsUnlocked>k__BackingField: 1
+  <IsMagicAttacker>k__BackingField: 0
+  <Stats>k__BackingField: {fileID: 11400000, guid: 65d59b78521ef4f42be59f73f5c11837, type: 2}
+  <Skills>k__BackingField:
+  - {fileID: 11400000, guid: b7d8c6aeeb543024684f7365e4b2a136, type: 2}
+  - {fileID: 11400000, guid: 9f8c00eef01894f45afab8d43fa9cbd9, type: 2}
+  <Race>k__BackingField: {fileID: 11400000, guid: 77dd9f8134cedfe4f8945cc12dc94b5b, type: 2}
+  <Role>k__BackingField: {fileID: 11400000, guid: d9275e82d78033444a986307a5913422, type: 2}

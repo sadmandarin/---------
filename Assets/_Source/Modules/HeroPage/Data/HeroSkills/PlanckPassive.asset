@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eec1692c338bca46b1b7adaddf1c684, type: 3}
+  m_Name: PlanckPassive
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: -1281943493, guid: 296e5c30ac6ecf040911bb8bf471f49e, type: 3}
+  <IsPassive>k__BackingField: 1
+  <SkillDescriptions>k__BackingField:
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: 6e5ee758d44bb7f4eae88cab30447ec4, type: 3}
+    Values:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    ValueSuffix: '%'
+  - LeanPhraseName: {fileID: 6746014554929174341, guid: e031f7a079ff4a94ca3e445ce36f0539, type: 3}
+    Values:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    ValueSuffix: '%'
+  _title: {fileID: 6746014554929174341, guid: b1f72880d9c42a344b80d9a78e090710, type: 3}
+  _description: {fileID: 6746014554929174341, guid: 2429aa785554b2943b64cbfd43776b5e, type: 3}

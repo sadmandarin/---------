@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ac269df70b34ee4a8f3111f39acc2d7, type: 3}
+  m_Name: _BlackBeard
+  m_EditorClassIdentifier: 
+  <HeroPresentation>k__BackingField: {fileID: 11400000, guid: 63f99736717053648992d56d188658d7, type: 2}
+  <IsUnlocked>k__BackingField: 0
+  <IsMagicAttacker>k__BackingField: 0
+  <Stats>k__BackingField: {fileID: 11400000, guid: 3d64bac2350fcfa45865823ba6e022f4, type: 2}
+  <Skills>k__BackingField:
+  - {fileID: 11400000, guid: 07758ab91313d1945b1134592573ac59, type: 2}
+  - {fileID: 11400000, guid: ebe8e8953fd2d144bab8c140cf1fa903, type: 2}
+  <Race>k__BackingField: {fileID: 11400000, guid: 77dd9f8134cedfe4f8945cc12dc94b5b, type: 2}
+  <Role>k__BackingField: {fileID: 11400000, guid: d9275e82d78033444a986307a5913422, type: 2}

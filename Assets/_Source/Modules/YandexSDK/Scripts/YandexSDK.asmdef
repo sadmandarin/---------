@@ -1,0 +1,22 @@
+{
+    "name": "YandexSDK",
+    "rootNamespace": "YandexSDK",
+    "references": [
+        "GUID:ef7e0e3eb213f324c87b70a782844fb6",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:4a8fff017e14f8b40a6eca4c053548e7",
+        "GUID:fbe7c13e574c266428c51e9950661e12",
+        "GUID:218c8d088c76f5f45b9b3de347da2c05",
+        "GUID:8f22d867f50f3884892cfde18442bbf9",
+        "GUID:0204bdca3aaeee847b8d5c8fce640873"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

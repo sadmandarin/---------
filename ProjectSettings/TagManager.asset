@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  - Building
+  - Castle
+  - Barracks
+  - Footman
+  - Hoplites
+  - Archer
+  - TowerRange
+  - Between
+  - CanvasCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Board
+  - BattleSlot
+  - Mergable
+  - Player
+  - Enemy
+  - Neutral
+  - TowerRange
+  - InfiniteBattle
+  - Between
+  - Terrain
+  - Hero
+  - MouseAction
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 3552219219
+    locked: 0

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832f1e260c5b8f74abe581c62c538a9c, type: 3}
+  m_Name: Formations
+  m_EditorClassIdentifier: 
+  <Formations>k__BackingField:
+  - <NumberOfUnits>k__BackingField: 1
+    <Positions>k__BackingField:
+    - 0,0,0
+    - 0,1,0
+    - 0,0,0
+  - <NumberOfUnits>k__BackingField: 3
+    <Positions>k__BackingField:
+    - 0,0,0
+    - 1,1,1
+    - 0,0,0
+  - <NumberOfUnits>k__BackingField: 5
+    <Positions>k__BackingField:
+    - 0,1,0
+    - 1,1,1
+    - 0,1,0
+  - <NumberOfUnits>k__BackingField: 7
+    <Positions>k__BackingField:
+    - 1,1,1
+    - 0,1,0
+    - 1,1,1
+  - <NumberOfUnits>k__BackingField: 9
+    <Positions>k__BackingField:
+    - 1,1,1
+    - 1,1,1
+    - 1,1,1
+  _maxFormationLevel: 4

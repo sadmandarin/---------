@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Source/Game/Scenes/Bootstrap.unity
+    guid: 9f8df8caae9e9364cacbcb6a391ae9be
+  - enabled: 1
+    path: Assets/_Source/Game/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_Source/Modules/AutoBattlerAndBoard/Scene/AutoBattlerAndBoard.unity
+    guid: f36ceb8866c70cf4cb4c1c088cc61f8b
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/ExpeditionChapter1.unity
+    guid: bc6da292948dba747b495ff89ff85f08
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/ExpeditionChapter2.unity
+    guid: 522a4cfcf4e88bb4b974b2ed75a16d77
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level1.unity
+    guid: 59c693d08c3b7244f98d90756ff8c6cd
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level2.unity
+    guid: 8679b86304d27d64f84309b8fa02aba9
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level3.unity
+    guid: 0f2a6c8e1b4cb784487e13e8e9b4c03d
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level4.unity
+    guid: 17885d2280fd0284689f2f1fbbbced96
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level5.unity
+    guid: c78dd0b3349c0974e81c10048c7a9f2e
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level6.unity
+    guid: b3ed9febd9aa690459a7159cc2237126
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level7.unity
+    guid: 9d6cb803c6ef5f447889fce3be5fd7a2
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level8.unity
+    guid: ee9b55f471be140478c453225a8fcca4
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level9.unity
+    guid: adba4452eff952e479dc7e2781b37d63
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level10.unity
+    guid: f0a00af67281c1c4a96e9e5235954288
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level11.unity
+    guid: 087e4998694e9174d84e3393e3bda37f
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level12.unity
+    guid: d49b751639c3eef44b8f3b39f5b6212c
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level13.unity
+    guid: 7c5599fe6ede9e14b9a77faa6d9a4847
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level14.unity
+    guid: 53f8f53cb5b496f4ea9a87c16de692ad
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level15.unity
+    guid: f2b3182b89dd6b34894ae871ec7550f5
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level16.unity
+    guid: b86148626ba0b8843b82eeb981a4d0f2
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level17.unity
+    guid: 51ec17fef10eabc4daef989bf643f3f3
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level18.unity
+    guid: 1be37f38c12d5734d910126cdef5178d
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level19.unity
+    guid: fb95177b9a7d102428988e2842d35bc7
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter1/Level20.unity
+    guid: c3ac3537095f37042b4d192fc6e64b60
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level21.unity
+    guid: 47882c2aac62ada458dfece54d390f5a
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level22.unity
+    guid: 778fce0063827e340a9388624278538e
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level23.unity
+    guid: a9cda2716689a7f489880530762baeb5
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level24.unity
+    guid: 82b433a88a1971c4a805eb7d9a2709fd
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level25.unity
+    guid: b6ee97ddae5fd03448324c99313063da
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level26.unity
+    guid: c64933684f120b642b2091c441418a6f
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level27.unity
+    guid: a72c51362eacdf847975874abcb4490c
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level28.unity
+    guid: 4f314eafb36268e4fa4b9b8450ce8963
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level29.unity
+    guid: 20b7b4cdd35fbb446a72dd7d42dedafa
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level30.unity
+    guid: 32c14fc58b1c0014b9c08987f5a55c5f
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level31.unity
+    guid: fd3ce9fd0a6090d4e915bf9e10ebd197
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level32.unity
+    guid: cb99c25e9d49d72458f9423a62a18b2f
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level33.unity
+    guid: 9732a236a88dc0540aa44c6c0b64a69b
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level34.unity
+    guid: 3f827853ec11b28419e081049b846cec
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level35.unity
+    guid: 5b606edc4751e18469ca3608ce676026
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level36.unity
+    guid: 5df8758619346b64db3cc58b17b79139
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level37.unity
+    guid: 218691a3ac5032446ba233a3f4836119
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level38.unity
+    guid: adbaa21a4c0ae2848948b6551941b509
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level39.unity
+    guid: dc209dc1817a1e0409c710aba26ae5e4
+  - enabled: 1
+    path: Assets/_Source/Modules/Expedition/Scenes/Chapter2/Level40.unity
+    guid: 651cbde946442b848aa6c716d43feaaa
+  m_configObjects: {}

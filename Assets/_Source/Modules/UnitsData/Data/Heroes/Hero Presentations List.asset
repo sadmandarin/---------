@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88333717eba7e7349a096307e01d9c99, type: 3}
+  m_Name: Hero Presentations List
+  m_EditorClassIdentifier: 
+  <Heroes>k__BackingField:
+  - {fileID: 11400000, guid: 8eeafdfcb5477c74d9aa55f87ee96dfe, type: 2}
+  - {fileID: 11400000, guid: f3878b8af6817334f98a67d2c6308355, type: 2}
+  - {fileID: 11400000, guid: 63f99736717053648992d56d188658d7, type: 2}
+  - {fileID: 11400000, guid: ca977084a3fa7f245aba07f7b8f24edb, type: 2}
+  - {fileID: 11400000, guid: cf3018c607fb5a040af901b6f99dbe76, type: 2}
+  - {fileID: 11400000, guid: 79a8b2a36922bec44af363c434f90d9e, type: 2}
+  - {fileID: 11400000, guid: a646c760b92b1c54db0176ab52aa2f60, type: 2}
+  - {fileID: 11400000, guid: d8a6285d3d07ca74ba02d069382cdbb5, type: 2}
+  - {fileID: 11400000, guid: 9e99c880c6434084590736df3fee2551, type: 2}

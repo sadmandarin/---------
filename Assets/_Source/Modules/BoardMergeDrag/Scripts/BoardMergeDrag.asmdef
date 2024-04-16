@@ -1,0 +1,19 @@
+{
+    "name": "BoardMergeDrag",
+    "rootNamespace": "BoardMergeDrag",
+    "references": [
+        "GUID:76385025f798c52419528a0c400aa8e4",
+        "GUID:96e8341aac8723b4b8a71a6864d44ddf",
+        "GUID:84327cdc1e8773a4d80df0920b675246",
+        "GUID:fbe7c13e574c266428c51e9950661e12"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

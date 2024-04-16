@@ -1,0 +1,33 @@
+{
+    "name": "Legion",
+    "rootNamespace": "Legion",
+    "references": [
+        "GUID:9326715747d987041830d3d502fd39dd",
+        "GUID:4a8fff017e14f8b40a6eca4c053548e7",
+        "GUID:ef7e0e3eb213f324c87b70a782844fb6",
+        "GUID:2f36ee0980f57dc45894f5876df866bb",
+        "GUID:8d012a20bb3cd1746a4e73711f4e2a88",
+        "GUID:558a0739c768a7747b6f5e7dd45a75c1",
+        "GUID:0604464e14df43c45902a4dd095f737f",
+        "GUID:fbe7c13e574c266428c51e9950661e12",
+        "GUID:7afad26729494224c85dfac0836fe4aa",
+        "GUID:12f0058a58d74684db7cdce2a601c0d8",
+        "GUID:900b9b46327a4d1439e00495046d45f6",
+        "GUID:563b299379113cb4694b448e2dc89db4",
+        "GUID:218c8d088c76f5f45b9b3de347da2c05",
+        "GUID:96e8341aac8723b4b8a71a6864d44ddf",
+        "GUID:fa8d30c42bbc9154e9066dca93d62d0f",
+        "GUID:4e29f71701d67174bba771d34b8ac7ad",
+        "GUID:76385025f798c52419528a0c400aa8e4",
+        "GUID:0204bdca3aaeee847b8d5c8fce640873"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

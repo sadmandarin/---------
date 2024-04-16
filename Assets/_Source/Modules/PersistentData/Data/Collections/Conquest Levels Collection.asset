@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85369fef2188bbc4aa1107b65a97f082, type: 3}
+  m_Name: Conquest Levels Collection
+  m_EditorClassIdentifier: 
+  <CollectionValue>k__BackingField:
+  - Level: 20
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 3
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 4
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 5
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 6
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 7
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 8
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 9
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 10
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 11
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 12
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 13
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 14
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 15
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 16
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 17
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 18
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 19
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 2
+    StarsFilled: 0
+    Unlocked: 0
+    Finished: 0
+    ClaimedReward: 0
+  - Level: 1
+    StarsFilled: 0
+    Unlocked: 1
+    Finished: 0
+    ClaimedReward: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5964d6541eb8e6e43b226dc0f7701c8e, type: 3}
+  m_Name: HeroItem 1
+  m_EditorClassIdentifier: 
+  <GUID>k__BackingField: 7880e803c10f5244995ca70a4ff759de
+  _heroCollection: {fileID: 11400000, guid: 1440a99d79f2e3b4683f6e54930daa63, type: 2}
+  _heroPresentation: {fileID: 11400000, guid: 8eeafdfcb5477c74d9aa55f87ee96dfe, type: 2}
+  _price: 2000

@@ -1,0 +1,23 @@
+{
+    "name": "AutoBattlerAndBoard",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8d012a20bb3cd1746a4e73711f4e2a88",
+        "GUID:4a5913535a8ec1f49bfb10ea77de41f3",
+        "GUID:96e8341aac8723b4b8a71a6864d44ddf",
+        "GUID:76385025f798c52419528a0c400aa8e4",
+        "GUID:84327cdc1e8773a4d80df0920b675246",
+        "GUID:fbe7c13e574c266428c51e9950661e12",
+        "GUID:36d2acf745fbc084ca6b44e27654c127",
+        "GUID:900b9b46327a4d1439e00495046d45f6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

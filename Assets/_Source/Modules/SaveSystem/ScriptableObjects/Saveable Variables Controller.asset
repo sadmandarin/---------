@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b22533c4af2ef2841994d79915297d96, type: 3}
+  m_Name: Saveable Variables Controller
+  m_EditorClassIdentifier: 
+  <BarracksHolder>k__BackingField: {fileID: 11400000, guid: 4fe5ad35daada6d4198b13339f99a316, type: 2}
+  <BoardHolder>k__BackingField: {fileID: 11400000, guid: 66295b49b5f7ca747826f9eeb801dfeb, type: 2}
+  <Coins>k__BackingField: {fileID: 11400000, guid: aac3515479fa4f74fa260766d90e3a08, type: 2}
+  <Gems>k__BackingField: {fileID: 11400000, guid: 2609d40e1d4667a4b91e76c9f7002431, type: 2}
+  <MainLevel>k__BackingField: {fileID: 11400000, guid: 921e01d6b0d406b4b8a16919cbf7cbbe, type: 2}
+  <Experience>k__BackingField: {fileID: 11400000, guid: 6da2282f654fe1440ba0a24388669d0d, type: 2}
+  <HeroCollection>k__BackingField: {fileID: 11400000, guid: 1440a99d79f2e3b4683f6e54930daa63, type: 2}
+  <ExperienceRewardCollection>k__BackingField: {fileID: 11400000, guid: 37021a1f6ef5c0d489da4479656d3b8b, type: 2}
+  <CollectedUnitsCollection>k__BackingField: {fileID: 11400000, guid: cc161f7e809ce6c4b80a7275086c386c, type: 2}
+  <CardDrawerProgressionIndex>k__BackingField: {fileID: 11400000, guid: ef38f52e1a54b414b9672ea983b94d94, type: 2}
+  <TroopsChest>k__BackingField: {fileID: 11400000, guid: 93d44db12ae5bc74f8b5bd2d3e48ef9c, type: 2}
+  <HeroesChest>k__BackingField: {fileID: 11400000, guid: 005573aef353f4244b9946e264d520d0, type: 2}
+  <TroopsChestSavedTime>k__BackingField: {fileID: 11400000, guid: 5c8c86322d0b5f0429e624dc5598b52d, type: 2}
+  <HeroesChestSavedTime>k__BackingField: {fileID: 11400000, guid: c33c3ca9e157aec4a896e15da867cfa5, type: 2}
+  <OfflineIncomeTime>k__BackingField: {fileID: 11400000, guid: cf11f7b8305fd03479129a94e539866c, type: 2}
+  <MysticStoreItemsCollection>k__BackingField: {fileID: 11400000, guid: 7d43f8c44aaea6a4e84547bf7acbc2d9, type: 2}
+  <DailyUpdateTime>k__BackingField: {fileID: 11400000, guid: 6372efff67a90b74b8b8709dfa7bb5cb, type: 2}
+  <NormalMissionsLevel>k__BackingField: {fileID: 11400000, guid: 0000904ce0c942c49b00f4e428048cb0, type: 2}
+  <HardMissionsLevel>k__BackingField: {fileID: 11400000, guid: f7029db527c33b249ab176c5555c452b, type: 2}
+  <NormalMissionsTimesRemaining>k__BackingField: {fileID: 11400000, guid: 2603ec0648150bf47b661a43cf7125d3, type: 2}
+  <HardMissionsTimesRemaining>k__BackingField: {fileID: 11400000, guid: bfa22fb487885c843ae9cb036044f325, type: 2}
+  <DailyTroopsCollection>k__BackingField: {fileID: 11400000, guid: bf21c10b89eb62347b592f8d6e827846, type: 2}
+  <ClaimedFreeDaily>k__BackingField: {fileID: 11400000, guid: 11b3babcbeecf29478ad47d146c8ab6c, type: 2}
+  <ConquestLevels>k__BackingField: {fileID: 11400000, guid: 393b650d6fcb30744991e3b8e2dc82fd, type: 2}
+  <ConquestRewards>k__BackingField: {fileID: 11400000, guid: 683bf4f95e746364bbbc5d433424394b, type: 2}
+  <ConquestRewards2>k__BackingField: {fileID: 11400000, guid: 0bd801866ae8ad84199d8803df8cdf2b, type: 2}
+  <PurchasedConquestPremiumRewards>k__BackingField: {fileID: 11400000, guid: 6d8b8534888f828469d800eb3f2d24f4, type: 2}
+  <PurchasedConquestPremiumRewards2>k__BackingField: {fileID: 11400000, guid: 47bbcbdb12f8da847bc63d2e2e67a717, type: 2}
+  <QuestsCollection>k__BackingField: {fileID: 11400000, guid: 2f3737fd5885fe045b56636854315891, type: 2}
+  <LuckyBonus>k__BackingField: {fileID: 11400000, guid: 7367a4bcaa144374095112ea81ab2c2c, type: 2}
+  <AutoBattleTimes>k__BackingField: {fileID: 11400000, guid: 4474e0b48442bf845a8c94fce4d94828, type: 2}
+  <DoubleSpeed>k__BackingField: {fileID: 11400000, guid: 1671a4113b68c06459ca80fd110dcdf0, type: 2}
+  <BattleDifficulty>k__BackingField: {fileID: 11400000, guid: 2bd11c01b009ab44eb7fe039966506dc, type: 2}
+  <PurchasedAutoFight>k__BackingField: {fileID: 11400000, guid: 86bd16aa44d5a3a49b8d6a3dd9dce4ef, type: 2}
+  <ProgressPoints>k__BackingField: {fileID: 11400000, guid: 8cd998a080299e54eb0c23ecdd319e1f, type: 2}
+  <DailyProgress>k__BackingField: {fileID: 11400000, guid: da8986ec0b85fb54ba6545e2c99767a0, type: 2}

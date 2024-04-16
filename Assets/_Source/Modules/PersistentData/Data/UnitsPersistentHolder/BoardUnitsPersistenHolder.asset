@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd8b481127a7bcd4590663c5ebe05884, type: 3}
+  m_Name: BoardUnitsPersistenHolder
+  m_EditorClassIdentifier: 
+  <Units>k__BackingField:
+  - Name: FireMage
+    Level: 4
+    Position: {x: 1, y: 1}
+  - Name: FireMage
+    Level: 4
+    Position: {x: 3, y: 1}
+  - Name: FireMage
+    Level: 4
+    Position: {x: 5, y: 1}
+  - Name: Archer
+    Level: 1
+    Position: {x: 4, y: 1}
+  - Name: Archer
+    Level: 1
+    Position: {x: 2, y: 1}
+  - Name: Archer
+    Level: 1
+    Position: {x: 6, y: 1}
+  - Name: Archer
+    Level: 1
+    Position: {x: 0, y: 1}
+  - Name: Archer
+    Level: 1
+    Position: {x: 2, y: 2}
+  - Name: Archer
+    Level: 1
+    Position: {x: 4, y: 2}
+  - Name: UndeadSoldier
+    Level: 4
+    Position: {x: 4, y: 6}
+  - Name: OgreWarrior
+    Level: 4
+    Position: {x: 3, y: 6}
+  - Name: UndeadSoldier
+    Level: 4
+    Position: {x: 2, y: 6}
+  - Name: Infantry
+    Level: 4
+    Position: {x: 3, y: 5}
+  - Name: OgreWarrior
+    Level: 4
+    Position: {x: 5, y: 6}
+  - Name: OgreWarrior
+    Level: 4
+    Position: {x: 1, y: 6}
+  <BoardSize>k__BackingField: {x: 7, y: 7}
+  _mainLevel: {fileID: 11400000, guid: 921e01d6b0d406b4b8a16919cbf7cbbe, type: 2}
+  _boardSizeConfig: {fileID: 11400000, guid: 54d0806144096e64497c98a6cb9b7de7, type: 2}

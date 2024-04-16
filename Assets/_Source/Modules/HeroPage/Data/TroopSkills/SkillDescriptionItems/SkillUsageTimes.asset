@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09d7e43d799e9fa459bfd68f5fe53a49, type: 3}
+  m_Name: SkillUsageTimes
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 21300000, guid: 4781592c34bbd4747811dd490f760e49, type: 2}
+  _title: {fileID: 6746014554929174341, guid: 109c3da635b84bd4da12a2ece72970d9, type: 3}

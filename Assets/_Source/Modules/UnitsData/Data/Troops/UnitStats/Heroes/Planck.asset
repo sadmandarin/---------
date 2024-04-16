@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41f354c06e6f1554082fc80898ccd96d, type: 3}
+  m_Name: Planck
+  m_EditorClassIdentifier: 
+  StatsLevels:
+  - Health: 6000
+    Defense: 85
+    Damage: 180
+    HitRadius: 0
+    AttackSpeed: 1
+    MovementSpeed: 1
+  - Health: 6750
+    Defense: 85
+    Damage: 200
+    HitRadius: 0
+    AttackSpeed: 1
+    MovementSpeed: 1
+  - Health: 7500
+    Defense: 170
+    Damage: 220
+    HitRadius: 0
+    AttackSpeed: 1
+    MovementSpeed: 1
+  - Health: 9000
+    Defense: 170
+    Damage: 240
+    HitRadius: 0
+    AttackSpeed: 0
+    MovementSpeed: 0
+  - Health: 10500
+    Defense: 255
+    Damage: 260
+    HitRadius: 0
+    AttackSpeed: 1
+    MovementSpeed: 1

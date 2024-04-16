@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0a65c39614cdd4cbfdf81a41ea8813, type: 3}
+  m_Name: Card Drawer Cost Progression
+  m_EditorClassIdentifier: 
+  _cardDrawerProgressionIndex: {fileID: 11400000, guid: ef38f52e1a54b414b9672ea983b94d94, type: 2}
+  _increment: 420
+  _predeterminedValues:
+  - 0
+  - 300
+  _maxValue: 15000
